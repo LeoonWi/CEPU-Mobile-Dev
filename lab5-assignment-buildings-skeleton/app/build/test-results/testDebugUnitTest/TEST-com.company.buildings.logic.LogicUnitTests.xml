@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.buildings.logic.LogicUnitTests" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-03-18T17:39:57" hostname="arch" time="0.047">
+  <properties/>
+  <testcase name="testCottageSecondFloor" classname="com.company.buildings.logic.LogicUnitTests" time="0.007"/>
+  <testcase name="testHouseToString" classname="com.company.buildings.logic.LogicUnitTests" time="0.001"/>
+  <testcase name="test_OfficeConstructor" classname="com.company.buildings.logic.LogicUnitTests" time="0.002"/>
+  <testcase name="test_SetSpaces" classname="com.company.buildings.logic.LogicUnitTests" time="0.0"/>
+  <testcase name="testBuildingSetAndGet" classname="com.company.buildings.logic.LogicUnitTests" time="0.001"/>
+  <testcase name="testNeighborhoodArea" classname="com.company.buildings.logic.LogicUnitTests" time="0.005"/>
+  <testcase name="test_OfficeLotArea" classname="com.company.buildings.logic.LogicUnitTests" time="0.001"/>
+  <testcase name="test_OfficeArea" classname="com.company.buildings.logic.LogicUnitTests" time="0.004"/>
+  <testcase name="testBuildingLotArea" classname="com.company.buildings.logic.LogicUnitTests" time="0.003"/>
+  <testcase name="testBuildingArea" classname="com.company.buildings.logic.LogicUnitTests" time="0.001"/>
+  <testcase name="testHouseEquals" classname="com.company.buildings.logic.LogicUnitTests" time="0.005"/>
+  <testcase name="testCottageSingleFloor" classname="com.company.buildings.logic.LogicUnitTests" time="0.002"/>
+  <testcase name="test_OfficeEquals" classname="com.company.buildings.logic.LogicUnitTests" time="0.002"/>
+  <testcase name="test_OfficeString" classname="com.company.buildings.logic.LogicUnitTests" time="0.0"/>
+  <testcase name="testHouseAreas" classname="com.company.buildings.logic.LogicUnitTests" time="0.001"/>
+  <testcase name="testHouseOwner" classname="com.company.buildings.logic.LogicUnitTests" time="0.004"/>
+  <testcase name="testHousePool" classname="com.company.buildings.logic.LogicUnitTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
