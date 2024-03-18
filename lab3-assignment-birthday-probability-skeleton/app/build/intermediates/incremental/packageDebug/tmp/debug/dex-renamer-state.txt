@@ -1,9 +1,9 @@
-#Tue Mar 05 01:04:33 MSK 2024
-base.0=/home/leoonwi/Projects/MobileApplicationsDevelopment_2023/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/home/leoonwi/Projects/MobileApplicationsDevelopment_2023/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/home/leoonwi/Projects/MobileApplicationsDevelopment_2023/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.3=/home/leoonwi/Projects/MobileApplicationsDevelopment_2023/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
-base.4=/home/leoonwi/Projects/MobileApplicationsDevelopment_2023/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+#Tue Mar 12 01:09:49 MSK 2024
+base.0=/home/leoonwi/AndroidStudioProjects/MobileApplicationsDevelopment_2023/CEPU-Mobile-Dev/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/leoonwi/AndroidStudioProjects/MobileApplicationsDevelopment_2023/CEPU-Mobile-Dev/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/leoonwi/AndroidStudioProjects/MobileApplicationsDevelopment_2023/CEPU-Mobile-Dev/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.3=/home/leoonwi/AndroidStudioProjects/MobileApplicationsDevelopment_2023/CEPU-Mobile-Dev/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.4=/home/leoonwi/AndroidStudioProjects/MobileApplicationsDevelopment_2023/CEPU-Mobile-Dev/lab3-assignment-birthday-probability-skeleton/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=13/classes.dex
