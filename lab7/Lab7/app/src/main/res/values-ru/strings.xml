@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="mainText">Угадайте число от 0 до 100!</string>
+    <string name="dialogText">Число загадано</string>
+    <string name="tipLarger">Больше</string>
+    <string name="tipLess">Меньше</string>
+    <string name="win">Поздравляем! Вы угадали число!</string>
+    <string name="inputError">Введите число от 0 до 100!</string>
+    <string name="hintText">Введите число</string>
+    <string name="btnText">Проверить</string>
+    <string name="btnRestart">Перезапустить</string>
+    <string name="btnExit">Выйти</string>
+    <string name="btnPlay">Играть</string>
+    <string name="btnBack">Назад</string>
+</resources>

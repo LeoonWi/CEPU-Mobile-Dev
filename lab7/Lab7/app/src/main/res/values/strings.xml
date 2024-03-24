@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Number quiz</string>
+    <string name="mainText">Guess the number of 0 to 100!</string>
+    <string name="dialogText">Number ready</string>
+    <string name="tipLarger">Larger</string>
+    <string name="tipLess">Less</string>
+    <string name="win">Congratulation! You guessed the number!</string>
+    <string name="inputError">Enter number from 0 to 100!</string>
+    <string name="hintText">Enter number</string>
+    <string name="btnText">Check</string>
+    <string name="btnRestart">Restart</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnBack">Back</string>
+</resources>
